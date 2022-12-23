@@ -4,7 +4,7 @@
   <samp>
     😆 Hey! Welcome to my world !📌
     <br />
-    <br />🍉 我生待明日，万事成蹉跎! 🌱
+    <br />🍉 <a style="color:red;">我生待明日，万事成蹉跎! </a> 🌱
     <br />
     <br />👀  A Man of exploration.
     <br />
