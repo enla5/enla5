@@ -4,7 +4,7 @@
   <samp>
     😆 Hey! Welcome to my world !📌
     <br />
-    <br />🍉 Take a look at my stats  🌱
+    <br />🍉 🌱
     <br />
     <br />👀  A Man of exploration.
     <br />
